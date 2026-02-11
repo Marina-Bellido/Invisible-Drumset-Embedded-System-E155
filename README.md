@@ -1,3 +1,5 @@
+Final Project for my Microprocessor Sys:Design & App Class
+
 This was a joint project between Emmett Stralka (stremme1) and me, where we built an invisible drum set you can play in the air.
 
 This project was developed without libraries, using pure embedded software in C and System Verilog. 
